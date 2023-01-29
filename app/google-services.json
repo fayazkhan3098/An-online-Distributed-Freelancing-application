@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33857384966",
+    "project_id": "m-ployerdb",
+    "storage_bucket": "m-ployerdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33857384966:android:bbfc4ca0b9a833c57a0987",
+        "android_client_info": {
+          "package_name": "com.example.m_ployer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33857384966-uf1k3259l36osmepgr53h2crl6r4sgid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSM0RmA7WPCFoIU7dt9jEKIjAoik05GTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33857384966-uf1k3259l36osmepgr53h2crl6r4sgid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

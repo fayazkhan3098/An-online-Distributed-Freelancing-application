@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#00552E</color>
+    <color name="colorgreen">#085934</color>
+    <color name="NavyBlue">#050537</color>
+    <color name="purple_700">#050537</color>
+    <color name="black">#050537</color>
+    <color name="teal_200">#050537</color>
+    <color name="light_blue_900">#050537</color>
+    <color name="light_blue_A400">#050537</color>
+    <color name="purple_200">#050537</color>
+
+
+
+
+</resources>
